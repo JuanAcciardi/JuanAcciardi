@@ -8,7 +8,7 @@ Apasionado por transformar datos en decisiones.
 ## 🚀 Sobre mí
 - 📊 Background en **Ciencia de Datos** y experiencia con **Python, R, SQL, MATLAB, Spark y Power BI**.  
 - 🤖 Interés en **Machine Learning**, **Deep Learning** y proyectos de **IA aplicada**.  .  
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/juanAcciardi) | [Email](juani.acc99@gmail.com)  
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/juan-acciardi-74089423b/) | [Email](juani.acc99@gmail.com)  
 
 ---
 
@@ -50,7 +50,7 @@ _Procesamiento de señales EEG de la base CHBMIT para detección de crisis._
 ---
 
 ## 📫 Contacto
-- LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/JuanAcciardi)  
+- LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/juan-acciardi-74089423b/)  
 - Email: juani.acc99@gmail.com
 
 ---
