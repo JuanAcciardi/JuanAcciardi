@@ -24,22 +24,15 @@ Apasionado por transformar datos en decisiones.
 
 ### 🔹 [Predicción de Reservas Turísticas](https://github.com/tuusuario/proyecto-turismo)
 _Modelo de machine learning para predecir gasto de clientes en un establecimiento turístico._  
-- **Técnicas:** Clasificación, XGBoost, feature engineering  
-- **Resultados:** Mejor balance de clases, métricas de precisión mejoradas  
-
----
-
-### 🔹 [Análisis de Producción de Maíz en Argentina](https://github.com/tuusuario/proyecto-maiz)
-_Exploración y predicción de la producción de maíz y aceite de maíz (1969–2021)._  
-- **Técnicas:** Series de tiempo, regresión lineal, intervalos de confianza  
-- **Resultados:** Tendencias claras, predicción futura de producción  
+- **Técnicas:** Clasificación, Regresión, feature engineering  
+- **Resultados:** Creación exitosa de nuevas variables y precisión del modelo de 70%
 
 ---
 
 ### 🔹 [SubteBot – Sistema Experto para Optimizar Trayectos](https://github.com/tuusuario/subtebot)
 _Bot experto en Prolog + Python para calcular caminos óptimos en la red de subte de Buenos Aires._  
 - **Técnicas:** PySwip, reglas lógicas, API Transporte Público BA  
-- **Resultados:** Caminos más cortos y combinación automática de líneas  
+- **Resultados:** Respuesta inteligente con recomendación de posibles caminos más cortos 
 
 ---
 
